@@ -12,8 +12,8 @@
 
 ## Démarche
 1. Créez votre répertoire de projet.
-2. Clonez le répertoire (repo) `https://github.com/mgarzon/seg2505_2018/`
-3. Modifiez un fichier `PersonInfoN` pour qu'il contienne vos informations
+2. Clonez le répertoire (repo) `https://github.com/SEG2505-uottawa/`
+3. Modifiez un fichier `PersonInfoN` (folder Lab1_Git) pour qu'il contienne vos informations
 4. Ajoutez le document à l'état "staging" (`git add`)
 5. Faites un commit dans votre branche **master**
 6. Créez une nouvelle branche avec `git checkout -b newBranch`

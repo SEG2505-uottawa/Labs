@@ -7,7 +7,7 @@ Bonjour les étudiants.
 
 ## Labos
 
-### [Laboratoire 1: Git/GitHub](https://github.com/SEG2505-uottawa/Labs/Lab1_Git)
+### [Laboratoire 1: Git/GitHub](https://github.com/SEG2505-uottawa/Labs/tree/master/Lab1_Git)
 
 ### [Laboratoire 3 : Introduction à Android Studio](https://gitpitch.com/cedric-c/seg2505_2017/laboratoire3)
 
