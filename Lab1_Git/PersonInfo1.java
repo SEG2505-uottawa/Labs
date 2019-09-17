@@ -1,8 +1,8 @@
 public class PersonInfo1 {
 
-    public static String firstName = "Leisha";
-    public static String lastName = "Baker";
-    public static int studentNo = 338299;
+    public static String firstName = "Nasteho";
+    public static String lastName = "Abdillahi";
+    public static int studentNo = 6993033;
     public static String description = "Likes to take pictures";
 
     public static void displayFr() {
