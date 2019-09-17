@@ -1,4 +1,4 @@
-public class PersonInfo5 {
+public class PersonInfo6 {
 
     public static String firstName = "Matthieu";
     public static String lastName = "Frenette";
