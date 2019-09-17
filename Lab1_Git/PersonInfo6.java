@@ -1,10 +1,10 @@
-public class PersonInfo2 {
+public class PersonInfo6 {
 
-    public static String firstName = "Philipe";
-    public static String lastName = "Rosier";
-    public static int studentNo = 300005564;
-    public static String description = "I like Fifa";
-
+    public static String firstName = "Matthieu";
+    public static String lastName = "Frenette";
+    public static int studentNo = 8172416;
+    public static String description = "sandwich";
+    
     public static void displayFr() {
         String out = SIConstants.GREETING_FR;
         out += " " + firstName + " " + lastName + '.';
@@ -14,7 +14,6 @@ public class PersonInfo2 {
         
         System.out.println(out);
     }
-
     
     public static void displayEn() {
         String out = SIConstants.GREETING_EN;
